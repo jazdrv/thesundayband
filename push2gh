@@ -1,1 +1,3 @@
+#please don't remove this file... for Zak's git publishing
+
 git push https://$(op item get egsqakqwoqsa2gx556c72ix4hq --fields token --reveal)@github.com/jazdrv/thesundayband.git
